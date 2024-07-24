@@ -29,9 +29,6 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/unKia/appeditor' }
-    ],
     aside: 'left',
   }
 })
