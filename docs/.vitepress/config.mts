@@ -79,7 +79,14 @@ export default defineConfig({
     },
 
     outline: {
-      label: 'محتوای این صفحه:'
-    }
-  }
+      label: 'محتوای این نوشته'
+    },
+    docFooter: {
+      prev: 'نوشته قبلی',
+      next: 'نوشته بعدی'
+    },
+    darkModeSwitchLabel: 'حالت شب / روز',
+    sidebarMenuLabel: 'لیست نوشته‌ها',
+    returnToTopLabel: 'رفتن به بالای نوشته',
+}
 })
