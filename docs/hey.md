@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 <div dir="rtl">
  سلام رفیق 👋
 

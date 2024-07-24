@@ -1,12 +1,12 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-markdownStyles: false
+markdownStyles: true
 
 hero:
-  name: "مستندات اپ‌ادیتور"
-  text: "ساخت اپلیکیشن موبایل بدون برنامه‌نویسی"
-  tagline: appeditor.ir
+  name: "اپ‌ادیتور"
+  text: ""
+  tagline: ساخت اپلیکیشن موبایل بدون برنامه‌نویسی
   actions:
     - theme: brand
       text: ورود به پایگاه دانش
