@@ -2,4 +2,14 @@
 import DefaultTheme from 'vitepress/theme'
 import './custom.css'
 
-export default DefaultTheme
+import { h } from 'vue'
+import NotFound from './NotFound.vue'
+
+export default {
+  extends: DefaultTheme,
+  Layout() {
+    return h(DefaultTheme.Layout, null, {
+      'aside-outline-before': () => h(NotFound)
+    })
+  }
+}
