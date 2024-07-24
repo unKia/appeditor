@@ -8,16 +8,9 @@ export default defineConfig({
   locales: {
     root: {
       label: 'English',
-      lang: 'en'
-    },
-    rtl: {
-      label: 'فارسی',
-      lang: 'rtl', // optional, will be added  as `lang` attribute on `html` tag
-      link: '/rtl', // default /fr/ -- shows on navbar translations menu, can be external
+      lang: 'en',
       dir: 'rtl'
-
-      // other locale specific properties...
-    }
+    },
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
