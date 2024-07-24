@@ -3,23 +3,25 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "اپ‌ادیتور"
+  text: "ساخت اپلیکیشن موبایل بدون برنامه‌نویسی"
+  tagline: appeditor.ir
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: ورود به پایگاه دانش
+      link: /hey
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: ورود به پنل
+      link: https://panel.appeditor.ir
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - theme: brand
+    title: ساده
+    details: لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.
+  - theme: alt
+    title: روان
+    details: لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.
+  - title: قدرتمند
+    details: لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.
 ---
 
