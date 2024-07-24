@@ -98,8 +98,8 @@ export default defineConfig({
     sidebarMenuLabel: 'لیست نوشته‌ها',
     returnToTopLabel: 'رفتن به بالای نوشته',
     footer: {
-      message: 'توسعه داده شده توسط <a href="https://github.com/unKia">کیا</a>.',
-      copyright: 'این پایگاه دانش منبع‌باز بوده در <a href="https://github.com/unKia/appeditor">گیت‌هاب</a> در دسترس است.'
+      message: 'توسعه داده شده توسط کیا',
+      copyright: 'این پایگاه منبع‌باز بوده و در <a href="https://github.com/unKia/appeditor">گیت‌هاب</a> در دسترس است.'
     }
     
 }
