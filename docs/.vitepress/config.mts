@@ -64,21 +64,21 @@ export default defineConfig({
             translations: {
               button: {
                 buttonText: 'جست‌وجو... ‌ ‌ ‌',
-                buttonAriaLabel: '2'
+                buttonAriaLabel: 'جست‌وجو... ‌ ‌ ‌'
               },
               modal: {
-                displayDetails: '3',
-                resetButtonTitle: '4',
-                backButtonTitle: '5',
-                noResultsText: '6',
+                displayDetails: 'جزئیات نتایج',
+                resetButtonTitle: 'تنظیم مجدد',
+                backButtonTitle: 'پاک کردن',
+                noResultsText: 'نتیجه‌ای یافت نشد برای',
                 footer: {
-                  selectText: '7',
-                  selectKeyAriaLabel: '8',
-                  navigateText: '9',
-                  navigateUpKeyAriaLabel: '10',
-                  navigateDownKeyAriaLabel: '11',
-                  closeText: '12',
-                  closeKeyAriaLabel: '13'
+                  selectText: 'انتخاب نتیجه',
+                  selectKeyAriaLabel: 'انتخاب کردن',
+                  navigateText: 'جابه‌جایی بین نتایج',
+                  navigateUpKeyAriaLabel: 'بالا رفتن',
+                  navigateDownKeyAriaLabel: 'پایین آمدن',
+                  closeText: 'بستن پنجره جست‌وجو',
+                  closeKeyAriaLabel: 'بستن'
                 }
               }
             }
@@ -97,6 +97,10 @@ export default defineConfig({
     darkModeSwitchLabel: 'حالت شب / روز',
     sidebarMenuLabel: 'لیست نوشته‌ها',
     returnToTopLabel: 'رفتن به بالای نوشته',
+    footer: {
+      message: 'توسعه داده شده توسط <a href="https://github.com/unKia">کیا</a>.',
+      copyright: 'این پایگاه دانش منبع‌باز بوده در <a href="https://github.com/unKia/appeditor">گیت‌هاب</a> در دسترس است.'
+    }
     
 }
 })
