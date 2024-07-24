@@ -16,7 +16,7 @@ export default defineConfig({
     root: {
       label: 'fa',
       lang: 'fa',
-      dir: 'rtl',
+      // dir: 'rtl',
     },
   },
   markdown: {
