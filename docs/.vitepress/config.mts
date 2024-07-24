@@ -5,7 +5,7 @@ export default defineConfig({
   head: [
     [
       'link',
-      { href: 'https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/Vazirmatn-font-face.css', rel: 'stylesheet' }
+      { href: 'https://v1.fontapi.ir/css/Estedad', rel: 'stylesheet' }
     ]
   ],
   

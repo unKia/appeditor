@@ -261,7 +261,7 @@
    * -------------------------------------------------------------------------- */
   
   :root {
-    --vp-font-family-base: 'Vazirmatn', ui-sans-serif, system-ui, sans-serif,
+    --vp-font-family-base: 'Estedad', ui-sans-serif, system-ui, sans-serif,
       'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     --vp-font-family-mono: ui-monospace, 'Menlo', 'Monaco', 'Consolas',
       'Liberation Mono', 'Courier New', monospace;
@@ -269,7 +269,7 @@
   }
   
   :root:where(:lang(zh)) {
-    --vp-font-family-base: 'Punctuation SC', 'Vazirmatn', ui-sans-serif, system-ui,
+    --vp-font-family-base: 'Punctuation SC', 'Estedad', ui-sans-serif, system-ui,
       'PingFang SC', 'Noto Sans CJK SC', 'Noto Sans SC', 'Heiti SC',
       'Microsoft YaHei', 'DengXian', sans-serif, 'Apple Color Emoji',
       'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
