@@ -14,6 +14,7 @@ export default defineConfig({
       label: 'فارسی',
       lang: 'rtl', // optional, will be added  as `lang` attribute on `html` tag
       link: '/rtl', // default /fr/ -- shows on navbar translations menu, can be external
+      dir: 'rtl'
 
       // other locale specific properties...
     }
