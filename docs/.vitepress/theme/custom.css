@@ -495,7 +495,7 @@
    * -------------------------------------------------------------------------- */
   
   :root {
-    --vp-sidebar-width: 300px;
+    --vp-sidebar-width: 285;
     --vp-sidebar-bg-color: var(--vp-c-bg-alt);
   }
   
