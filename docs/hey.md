@@ -2,12 +2,6 @@
 layout: doc
 ---
 
-<script setup>
-import { useSidebar } from 'vitepress/theme'
-
-const { leftAside } = useSidebar(false)
-</script>
-
 <div dir="rtl">
  سلام رفیق 👋
 
