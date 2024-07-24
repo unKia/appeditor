@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "مستندات اپ‌ادیتور",
+  title: "‌ مستندات اپ‌ادیتور",
   description: "توضیحات",
   cleanUrls: true,
   locales: {
@@ -16,7 +16,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'خانه', link: '/' },
-      { text: ' پنل', link: 'https://panel.appeditor.ir' }
+      { text: '‌ پنل', link: 'https://panel.appeditor.ir' }
     ],
 
     sidebar: [
@@ -42,6 +42,9 @@ export default defineConfig({
     aside: 'left',
     search: {
       provider: 'local'
+    },
+    outline: {
+      label: 'محتوای این صفحه:'
     }
   }
 })
