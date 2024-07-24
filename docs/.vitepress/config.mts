@@ -36,7 +36,7 @@ export default defineConfig({
       }
     ],
 
-    logo: './appeditor.svg',
+    logo: 'src/appeditor.svg',
     siteTitle: false,
 
     socialLinks: [
