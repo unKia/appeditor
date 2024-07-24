@@ -2,6 +2,13 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  head: [
+    [
+      'link',
+      { href: 'https://cdn.jsdelivr.net/gh/rastikerdar/sahel-font@v3.4.0/dist/font-face.css', rel: 'stylesheet' }
+    ]
+  ],
+  
   title: "مستندات اپ‌ادیتور ‌ ‌ ‌ ‌ ‌",
   description: "توضیحات",
   cleanUrls: true,
@@ -10,12 +17,6 @@ export default defineConfig({
       label: 'fa',
       lang: 'fa',
       dir: 'rtl',
-      head: [
-        [
-          'link',
-          { href: 'https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/Vazirmatn-font-face.css', rel: 'stylesheet' }
-        ]
-      ]
     },
   },
   themeConfig: {
