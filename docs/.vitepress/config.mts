@@ -7,9 +7,9 @@ export default defineConfig({
   cleanUrls: true,
   locales: {
     root: {
-      label: 'English',
-      lang: 'en',
-      dir: 'rtl'
+      label: 'fa',
+      lang: 'fa',
+      //dir: 'rtl'
     },
   },
   themeConfig: {
