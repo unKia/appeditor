@@ -19,6 +19,12 @@ export default defineConfig({
       dir: 'rtl',
     },
   },
+  markdown: {
+    image: {
+      // image lazy loading is disabled by default
+      lazyLoading: true
+    },
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: {light: 'https://raw.githubusercontent.com/unKia/appeditor/main/docs/src/light.svg', dark: 'https://raw.githubusercontent.com/unKia/appeditor/main/docs/src/dark.svg', alt: 'appeditor',},
