@@ -1,5 +1,18 @@
 import { defineConfig } from 'vitepress'
+import type { ComputedRef, Ref, ShallowRef } from 'vue'
 
+export interface DocSidebar {
+  isOpen: Ref<true>
+  sidebar: ComputedRef<['Markdown Examples', 'Runtime API Examples']>
+  sidebarGroups: ComputedRef<[]>
+  hasSidebar: ComputedRef<true>
+  hasAside: ComputedRef<true>
+  leftAside: ComputedRef<false>
+  isSidebarEnabled: ComputedRef<true>
+  open: () => void
+  close: () => void
+  toggle: () => void
+}
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "مستندات اپ‌ادیتور",
