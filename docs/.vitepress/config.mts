@@ -38,6 +38,7 @@ export default defineConfig({
       {
         text: 'نوشته‌ها',
         items: [
+          { text: 'سلام رفیق  👋', link: '/hey' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
