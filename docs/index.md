@@ -27,6 +27,8 @@ features:
     details: لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.
 ---
 
+<div dir="rtl">
+
 ## شروع کنید
 
 You can get started using VitePress right away using `npx`!
@@ -35,3 +37,5 @@ You can get started using VitePress right away using `npx`!
 npm init
 npx vitepress init
 ```
+
+</div>

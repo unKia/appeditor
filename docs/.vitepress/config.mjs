@@ -5,6 +5,19 @@ export default defineConfig({
   title: "مستندات اپ‌ادیتور",
   description: "توضیحات",
   cleanUrls: true,
+  locales: {
+    root: {
+      label: 'English',
+      lang: 'en'
+    },
+    rtl: {
+      label: 'فارسی',
+      lang: 'rtl', // optional, will be added  as `lang` attribute on `html` tag
+      link: '/rtl' // default /fr/ -- shows on navbar translations menu, can be external
+
+      // other locale specific properties...
+    }
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
