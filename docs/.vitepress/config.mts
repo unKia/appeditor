@@ -16,7 +16,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'خانه', link: '/' },
-      { text: 'پنل کاربری', link: 'https://panel.appeditor.ir' }
+      { text: 'پنل کاربری ', link: 'https://panel.appeditor.ir' }
     ],
 
     sidebar: [
@@ -32,6 +32,6 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/unKia/appeditor' }
     ],
-    aside: true,
+    aside: 'left',
   }
 })
