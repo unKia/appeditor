@@ -36,7 +36,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'نوشته‌ها',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
