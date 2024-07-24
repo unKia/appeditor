@@ -21,8 +21,8 @@ export default defineConfig({
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: {light: 'https://raw.githubusercontent.com/unKia/appeditor/2f2b32e19d05ed247dc8b9ce68dd4455623eed43/docs/src/light.svg', dark: 'https://raw.githubusercontent.com/unKia/appeditor/2f2b32e19d05ed247dc8b9ce68dd4455623eed43/docs/src/dark.svg', alt: 'appeditor',},
-    
+    logo: {light: 'https://raw.githubusercontent.com/unKia/appeditor/main/docs/src/light.svg', dark: 'https://raw.githubusercontent.com/unKia/appeditor/main/docs/src/dark.svg', alt: 'appeditor',},
+
     nav: [
       { text: 'خانه', link: '/' },
       { text: 'پنل ‌ ‌', link: 'https://panel.appeditor.ir' }
