@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'خانه', link: '/' },
-      { text: 'پنل', link: 'https://panel.appeditor.ir' }
+      { text: 'پنل کاربری', link: 'https://panel.appeditor.ir' }
     ],
 
     sidebar: [
