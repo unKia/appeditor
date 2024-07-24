@@ -1,8 +1,8 @@
-<svg width="500" height="275" viewBox="0 0 500 275" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M138.7 75.2L83.3 144.6C82.9 145.1 82.9 146.1 83.3 146.6L138.7 214.7" stroke="#ADD251" stroke-width="18" stroke-miterlimit="10"/>
-<path d="M210.7 31.1L183.2 31C181.5 31 180.2 32.3 180.2 34V242.8C180.2 244.5 181.6 245.8 183.2 245.8H211.8" stroke="black" stroke-width="18" stroke-miterlimit="10"/>
-<path d="M362.2 75.2L417.6 144.6C418 145.1 418 146.1 417.6 146.6L362.2 214.7" stroke="#ADD251" stroke-width="18" stroke-miterlimit="10"/>
-<path d="M290.2 31.1L317.7 31C319.4 31 320.7 32.3 320.7 34V242.8C320.7 244.5 319.3 245.8 317.7 245.8H289.1" stroke="black" stroke-width="18" stroke-miterlimit="10"/>
-<path d="M289.1 60.1H211.7V197.2H289.1V60.1Z" fill="#ADD252" stroke="#ADD251" stroke-miterlimit="10"/>
-<path d="M250.4 245.9C258.022 245.9 264.2 239.722 264.2 232.1C264.2 224.478 258.022 218.3 250.4 218.3C242.778 218.3 236.6 224.478 236.6 232.1C236.6 239.722 242.778 245.9 250.4 245.9Z" fill="black"/>
+<svg width="550" height="236" viewBox="0 0 550 236" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M163.7 55.2L108.3 124.6C107.9 125.1 107.9 126.1 108.3 126.6L163.7 194.7" stroke="#ADD251" stroke-width="18" stroke-miterlimit="10"/>
+<path d="M235.7 11.1L208.2 11C206.5 11 205.2 12.3 205.2 14V222.8C205.2 224.5 206.6 225.8 208.2 225.8H236.8" stroke="black" stroke-width="18" stroke-miterlimit="10"/>
+<path d="M387.2 55.2L442.6 124.6C443 125.1 443 126.1 442.6 126.6L387.2 194.7" stroke="#ADD251" stroke-width="18" stroke-miterlimit="10"/>
+<path d="M315.2 11.1L342.7 11C344.4 11 345.7 12.3 345.7 14V222.8C345.7 224.5 344.3 225.8 342.7 225.8H314.1" stroke="black" stroke-width="18" stroke-miterlimit="10"/>
+<path d="M314.1 40.1H236.7V177.2H314.1V40.1Z" fill="#ADD252" stroke="#ADD251" stroke-miterlimit="10"/>
+<path d="M275.4 225.9C283.022 225.9 289.2 219.722 289.2 212.1C289.2 204.478 283.022 198.3 275.4 198.3C267.778 198.3 261.6 204.478 261.6 212.1C261.6 219.722 267.778 225.9 275.4 225.9Z" fill="black"/>
 </svg>
