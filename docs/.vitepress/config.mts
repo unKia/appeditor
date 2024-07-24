@@ -29,7 +29,7 @@ export default defineConfig({
       }
     ],
 
-    /* socialLinks: [
+    socialLinks: [
       {
         icon: {
           svg: ''
@@ -38,7 +38,7 @@ export default defineConfig({
         // You can include a custom label for accessibility too (optional but recommended):
         ariaLabel: ''
       }
-    ], */
+    ],
     aside: 'left',
     search: {
       provider: 'local',
