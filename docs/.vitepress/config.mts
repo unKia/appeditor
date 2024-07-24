@@ -9,7 +9,13 @@ export default defineConfig({
     root: {
       label: 'fa',
       lang: 'fa',
-      //dir: 'rtl'
+      dir: 'rtl',
+      head: [
+        [
+          'link',
+          { href: 'https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/Vazirmatn-font-face.css', rel: 'stylesheet' }
+        ]
+      ]
     },
   },
   themeConfig: {
