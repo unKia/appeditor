@@ -16,7 +16,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'خانه', link: '/' },
-      { text: '‌ پنل کاربری ‌', link: 'https://panel.appeditor.ir' }
+      { text: ' پنل', link: 'https://panel.appeditor.ir' }
     ],
 
     sidebar: [
@@ -29,7 +29,7 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [
+    /* socialLinks: [
       {
         icon: {
           svg: ''
@@ -38,7 +38,10 @@ export default defineConfig({
         // You can include a custom label for accessibility too (optional but recommended):
         ariaLabel: ''
       }
-    ],
+    ], */
     aside: 'left',
+    search: {
+      provider: 'local'
+    }
   }
 })
