@@ -54,7 +54,7 @@ export default defineConfig({
           root: { // make this `root` if you want to translate the default locale
             translations: {
               button: {
-                buttonText: '1',
+                buttonText: 'جست‌وجو... ‌ ‌ ‌',
                 buttonAriaLabel: '2'
               },
               modal: {
