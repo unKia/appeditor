@@ -479,7 +479,7 @@
   }
   
   .hide-nav .VPSidebar {
-    --vp-nav-height: 50px;
+    --vp-nav-height: 0px;
   }
   
   /**
