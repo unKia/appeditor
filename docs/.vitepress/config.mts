@@ -36,7 +36,7 @@ export default defineConfig({
       }
     ],
 
-    logo: 'src/appeditor.svg',
+    logo: 'https://hkia.s3.ir-thr-at1.arvanstorage.ir/appeditor.svg',
     siteTitle: false,
 
     socialLinks: [
