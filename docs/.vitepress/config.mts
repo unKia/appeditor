@@ -36,6 +36,9 @@ export default defineConfig({
       }
     ],
 
+    logo: '/appeditor.svg',
+    siteTitle: false,
+
     socialLinks: [
       {
         icon: {
@@ -88,5 +91,6 @@ export default defineConfig({
     darkModeSwitchLabel: 'حالت شب / روز',
     sidebarMenuLabel: 'لیست نوشته‌ها',
     returnToTopLabel: 'رفتن به بالای نوشته',
+    
 }
 })
