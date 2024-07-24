@@ -1,17 +1,12 @@
-<script setup>
-import { useSidebar } from 'vitepress/theme'
-
-const { hasSidebar } = useSidebar()
-const { leftAside } = useSidebar(false)
-</script>
-
-<template>
-  <div v-if="hasSidebar">Only show when sidebar exists</div>
-</template>
-
 ---
 layout: doc
 ---
+
+<script setup>
+import { useSidebar } from 'vitepress/theme'
+
+const { leftAside } = useSidebar(false)
+</script>
 
 <div dir="rtl">
  سلام رفیق 👋
