@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: ورود به پایگاه دانش
-      link: /hey
+      link: /Introduction
     - theme: alt
       text: ورود به پنل
       link: https://panel.appeditor.ir
