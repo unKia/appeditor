@@ -36,8 +36,8 @@ export default defineConfig({
       {
         text: 'روند توسعه',
         items: [
-          { text: 'تغییرات اخیر', link: '/changelog' },
-          { text: 'نقشه راه', link: '/item-2' },
+          { text: 'آخرین تغییرات', link: '/changelog' },
+          { text: 'نقشه راه توسعه', link: '/item-2' },
         ]
       },
       {
