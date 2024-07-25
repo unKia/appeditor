@@ -9,7 +9,7 @@ export default {
   extends: DefaultTheme,
   Layout() {
     return h(DefaultTheme.Layout, null, {
-      'aside-outline-before': () => h(NotFound)
+      'not-found': () => h(NotFound)
     })
   }
 }
