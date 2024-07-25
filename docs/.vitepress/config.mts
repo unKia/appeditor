@@ -106,7 +106,7 @@ export default defineConfig({
     sidebarMenuLabel: '‌ ‌ لیست نوشته‌ها',
     returnToTopLabel: 'رفتن به بالای نوشته',
     footer: {
-      message: 'توسعه داده شده با ‌ ❤️ و کمی بی‌خوابی توسط <a href="https://github.com/unKia">کیا</a>',
+      message: 'توسعه داده شده با ‌ ❤️',
       copyright: 'این پایگاه، منبع‌باز بوده و در <a href="https://github.com/unKia/appeditor">گیت‌هاب</a> در دسترس است.'
     }
     
