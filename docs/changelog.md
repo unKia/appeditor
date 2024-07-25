@@ -1,5 +1,4 @@
 ---
-footer: true
 prev: false
 next: false
 ---

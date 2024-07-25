@@ -96,15 +96,15 @@ export default defineConfig({
       }
     },
     outline: {
-      label: 'محتوای این نوشته ‌'
+      label: 'محتوای این صفحه ‌'
     },
     docFooter: {
       prev: 'نوشته قبلی',
       next: 'نوشته بعدی'
     },
     darkModeSwitchLabel: 'حالت شب / روز',
-    sidebarMenuLabel: '‌ ‌ لیست نوشته‌ها',
-    returnToTopLabel: 'رفتن به بالای نوشته',
+    sidebarMenuLabel: '‌ ‌ لیست محتوا',
+    returnToTopLabel: 'رفتن به بالای صفحه',
     footer: {
       message: 'توسعه داده شده با ‌ ❤️',
       copyright: 'اپ‌ادیتور | ۱۴۰۳-۱۳۹۷'
