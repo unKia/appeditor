@@ -107,7 +107,7 @@ export default defineConfig({
     returnToTopLabel: 'رفتن به بالای نوشته',
     footer: {
       message: 'توسعه داده شده با ‌ ❤️',
-      copyright: '© اپ‌ادیتور ۱۳۹۷-۱۴۰۳'
+      copyright: 'اپ‌ادیتور | ۱۳۹۷-۱۴۰۳'
     }
     
 }
