@@ -31,8 +31,13 @@ export default defineConfig({
 
     nav: [
       { text: 'خانه', link: '/' },
-      { text: 'تغییرات اخیر', link: '/changelog' },
-      { text: 'روند توسعه', link: '/hey' },
+      {
+        text: 'توسعه',
+        items: [
+          { text: 'تغییرات اخیر', link: '/changelog' },
+          { text: 'نقشه راه', link: '/hey' },
+        ]
+      },
       {
         text: 'بیشتر',
         items: [
