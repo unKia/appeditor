@@ -35,7 +35,7 @@ export default defineConfig({
       {
         text: 'بیشتر',
         items: [
-          { text: 'تعرفه‌ها', link: '/item-1' },
+          { text: 'تعرفه‌ها', link: '/pricing' },
           { text: 'پشتیبانی', link: '/item-2' },
           { text: 'درباره‌ما', link: '/item-3' }
         ]
