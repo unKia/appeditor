@@ -8,7 +8,7 @@ const { Layout } = DefaultTheme
 <template>
   <Layout>
     <template #nav-bar-content-after>
-      ‌ ‌ ‌ ‌ ‌
+      ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
     </template>
   </Layout>
 </template>
