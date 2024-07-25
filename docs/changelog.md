@@ -24,3 +24,9 @@
 \- لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم <Badge type="tip" text="ویژگی جدید" />
 
 \- لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم <Badge type="warning" text="بهبود عملکرد" />
+
+---
+footer: true
+prev: false
+next: false
+---
