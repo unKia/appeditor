@@ -9,7 +9,7 @@ export default defineConfig({
     ]
   ],
   
-  title: "پایگاه دانش  ‌ ‌ ‌ ‌ ‌",
+  title: "پایگاه دانش اپ‌ادیتور ‌ ‌ ‌ ‌ ‌",
   description: "توضیحات",
   cleanUrls: true,
   locales: {
