@@ -1,6 +1,7 @@
 <script setup lang="ts">
-import { withBase } from 'vitepress'
+import DefaultTheme from 'vitepress/theme'
 
+const { Layout } = DefaultTheme
 </script>
 
 <template>
@@ -18,7 +19,7 @@ import { withBase } from 'vitepress'
     <div class="action">
       <a
         class="link"
-        :href="withBase(currentLang.link)"
+        :href="https://appeditor.vercel.app/"
         :aria-label="theme.notFound?.linkLabel ?? 'go to home'"
       >
         {{ theme.notFound?.linkText ?? 'برگرد به خانه' }}
