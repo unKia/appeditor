@@ -48,8 +48,8 @@ export default defineConfig({
         text: 'نوشته‌ها',
         items: [
           { text: 'سلام رفیق  👋', link: '/hey' },
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'مثال نوشته‌ها', link: '/markdown-examples' },
+
         ]
       }
     ],
@@ -85,7 +85,6 @@ export default defineConfig({
         }
       }
     },
-
     outline: {
       label: 'محتوای این نوشته ‌'
     },
