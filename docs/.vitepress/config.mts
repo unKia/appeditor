@@ -31,7 +31,7 @@ export default defineConfig({
 
     nav: [
       { text: 'خانه', link: '/' },
-      { text: 'آخرین تغییرات', link: '/changelog' },
+      { text: 'تغییرات اخیر', link: '/changelog' },
       {
         text: 'بیشتر',
         items: [
@@ -97,14 +97,14 @@ export default defineConfig({
     },
 
     outline: {
-      label: 'محتوای این نوشته'
+      label: 'محتوای این نوشته ‌ ‌'
     },
     docFooter: {
       prev: 'نوشته قبلی',
       next: 'نوشته بعدی'
     },
     darkModeSwitchLabel: 'حالت شب / روز',
-    sidebarMenuLabel: 'لیست نوشته‌ها',
+    sidebarMenuLabel: '‌ ‌ لیست نوشته‌ها',
     returnToTopLabel: 'رفتن به بالای نوشته',
     footer: {
       message: 'توسعه داده شده با ‌ ❤️ و کمی بی‌خوابی ‌ 😉',
