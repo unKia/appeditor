@@ -8,7 +8,7 @@ next: false
 ۴ مرداد ۱۴۰۳ <Badge type="info" text="پنل" />
  ----
 
-| <Badge type="tip" text="ویژگی جدید" />
+<Badge type="tip" text="ویژگی جدید" />
 
 \- لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم
 
