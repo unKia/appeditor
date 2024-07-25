@@ -107,7 +107,7 @@ export default defineConfig({
     returnToTopLabel: 'رفتن به بالای نوشته',
     footer: {
       message: 'توسعه داده شده با ‌ ❤️',
-      copyright: 'این پایگاه، <a href="https://github.com/unKia/appeditor">منبع‌باز</a> است.'
+      copyright: '© اپ‌ادیتور ۱۳۹۷-۱۴۰۳'
     }
     
 }
