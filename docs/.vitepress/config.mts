@@ -54,14 +54,6 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [
-      {
-        icon: {
-          svg: ''
-        },
-        link: '',
-      }
-    ],
     aside: 'left',
     search: {
       provider: 'local',
@@ -105,7 +97,7 @@ export default defineConfig({
     sidebarMenuLabel: '‌ ‌ لیست نوشته‌ها',
     returnToTopLabel: 'رفتن به بالای نوشته',
     footer: {
-      message: 'توسعه داده شده با ‌ ❤️ و کمی بی‌خوابی! ‌ 😁',
+      message: 'توسعه داده شده با ‌ ❤️',
       copyright: 'این پایگاه، منبع‌باز بوده و در <a href="https://github.com/unKia/appeditor">گیت‌هاب</a> در دسترس است.'
     }
     
