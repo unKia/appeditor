@@ -32,7 +32,7 @@ export default defineConfig({
     nav: [
       { text: 'خانه', link: '/' },
       { text: 'تغییرات اخیر', link: '/changelog' },
-      { text: 'روند توسعه', link: '/hey' },
+      // { text: 'روند توسعه', link: '/hey' },
       {
         text: 'بیشتر',
         items: [
@@ -50,8 +50,8 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'آشنایی اولیه', link: '/Introduction' },
-          { text: 'سلام رفیق  👋', link: '/hey' },
-          { text: 'مثال نوشته‌ها', link: '/markdown-examples' },
+          { text: 'شروع به کار', link: '/hey' },
+          { text: 'آشنایی با پنل', link: '/markdown-examples' },
 
         ]
       },
