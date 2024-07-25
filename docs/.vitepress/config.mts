@@ -54,16 +54,14 @@ export default defineConfig({
       }
     ],
 
-  /*  socialLinks: [
+    socialLinks: [
       {
         icon: {
           svg: ''
         },
         link: '',
-        // You can include a custom label for accessibility too (optional but recommended):
-        ariaLabel: ''
       }
-    ], */
+    ],
     aside: 'left',
     search: {
       provider: 'local',
