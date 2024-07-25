@@ -46,9 +46,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'نوشته‌ها',
+        text: 'مقدمه',
         collapsed: false,
         items: [
+          { text: 'آشنایی اولیه', link: '/Introduction' },
           { text: 'سلام رفیق  👋', link: '/hey' },
           { text: 'مثال نوشته‌ها', link: '/markdown-examples' },
 
