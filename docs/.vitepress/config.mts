@@ -54,11 +54,11 @@ export default defineConfig({
         ]
       },
       {
-        text: 'نوشته‌ها',
+        text: 'بیشتر',
         collapsed: false,
         items: [
-          { text: 'سلام رفیق  👋', link: '/hey' },
-          { text: 'مثال نوشته‌ها', link: '/markdown-examples' },
+          { text: 'تغییرات اخیر', link: '/changelog' },
+          { text: 'تعرفه‌ها', link: '/pricing' },
 
         ]
       }
