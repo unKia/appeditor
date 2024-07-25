@@ -3,9 +3,9 @@ layout: home
 markdownStyles: true
 
 hero:
-  name: "آخرین تغییرات"
+  name: "تغییرات اخیر"
   text: ""
-  tagline: امکانات، پنل کاربری و پایگاه دانش
+  tagline: آخرین وقایع اپ‌ادیتور، پنل کاربری و پایگاه دانش
 ---
 
 ۴ مرداد ۱۴۰۳
