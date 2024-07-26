@@ -53,10 +53,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'مقدمه',
+        text: 'آشنایی اولیه',
         collapsed: false,
         items: [
-          { text: 'آشنایی اولیه', link: '/Introduction' },
+          { text: 'مقدمه', link: '/Introduction' },
           { text: 'شروع به کار', link: '/hey' },
           { text: 'آشنایی با پنل', link: '/markdown-examples' },
 
