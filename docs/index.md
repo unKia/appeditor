@@ -21,7 +21,7 @@ features:
     details: صفحه‌ساز قدرتمند و بی‌نظیر در دنیا!
   - icon: 🚀
     title: سریع
-    details: توسعه یافته با تکنولوژی native اندروید.
+    details: توسعه‌یافته با تکنولوژی بومی (native).
   - icon: 👌
     title: آسان
     details: ساده‌تر از چیزی که فکر می‌کنید.
