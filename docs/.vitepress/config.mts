@@ -31,9 +31,9 @@ export default defineConfig({
 
     nav: [
       { text: 'خانه', link: '/' },
-      { text: 'تغییرات', link: '/changelog' },
+      { text: 'تغییرات اخیر', link: '/changelog' },
       { text: 'تعرفه‌ها', link: '/pricing' },
-      { text: 'پشتیبانی', link: '/' },
+      { text: 'پشتیبانی', link: '/item' },
       /* {
         text: 'متن',
         items: [
