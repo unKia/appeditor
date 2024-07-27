@@ -31,23 +31,16 @@ export default defineConfig({
 
     nav: [
       { text: 'خانه', link: '/' },
-      // { text: 'متن', link: '/' },
-      // { text: 'متن', link: '/' },
-      {
-        text: 'روند توسعه',
+      { text: 'تغییرات', link: '/changelog' },
+      { text: 'تعرفه‌ها', link: '/pricing' },
+      { text: 'پشتیبانی', link: '/' },
+      /* {
+        text: 'متن',
         items: [
-          { text: 'تغییرات اخیر', link: '/changelog' },
-          { text: 'در حال توسعه', link: '/item-2' },
+          { text: 'متن', link: '/' },
+          { text: 'متن', link: '/' },
         ]
-      },
-      {
-        text: 'بیشتر',
-        items: [
-          { text: 'تعرفه‌ها', link: '/pricing' },
-          { text: 'پشتیبانی', link: '/item-2' },
-          { text: 'درباره‌ما', link: '/item-3' }
-        ]
-      },
+      }, */
       { text: 'پنل ‌ ‌', link: 'https://panel.appeditor.ir' }
     ],
 
