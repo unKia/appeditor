@@ -98,7 +98,8 @@ export default defineConfig({
       }
     },
     outline: {
-      label: 'محتوای این صفحه ‌'
+      label: 'محتوای این صفحه ‌',
+      level: 'deep',
     },
     docFooter: {
       prev: 'نوشته قبلی',
