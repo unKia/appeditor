@@ -35,10 +35,10 @@ export default defineConfig({
       // { text: 'متن', link: '/pricing' },
       // { text: 'متن', link: '/item' },
       {
-        text: 'بیشتر',
+        text: 'بیشتر ‌ ‌',
         items: [
-          { text: 'امکانات و تعرفه‌ها', link: '/changelog' },
-          { text: 'پشتیبانی', link: '/pricing' },
+          { text: 'امکانات و تعرفه‌ها', link: '/pricing' },
+          { text: 'پشتیبانی', link: '/support' },
         ]
       },
       { text: 'پنل ‌ ‌', link: 'https://panel.appeditor.ir' }
