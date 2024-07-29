@@ -37,7 +37,7 @@ export default defineConfig({
       {
         text: 'بیشتر',
         items: [
-          { text: 'تعرفه‌ها', link: '/changelog' },
+          { text: 'امکانات و تعرفه‌ها', link: '/changelog' },
           { text: 'پشتیبانی', link: '/pricing' },
         ]
       },
