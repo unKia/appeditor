@@ -32,15 +32,15 @@ export default defineConfig({
     nav: [
       { text: 'خانه', link: '/' },
       { text: 'تغییرات اخیر', link: '/changelog' },
-      { text: 'تعرفه‌ها', link: '/pricing' },
-      { text: 'پشتیبانی', link: '/item' },
-      /* {
-        text: 'متن',
+      // { text: 'متن', link: '/pricing' },
+      // { text: 'متن', link: '/item' },
+      {
+        text: 'بیشتر',
         items: [
-          { text: 'متن', link: '/' },
-          { text: 'متن', link: '/' },
+          { text: 'تعرفه‌ها', link: '/changelog' },
+          { text: 'پشتیبانی', link: '/pricing' },
         ]
-      }, */
+      },
       { text: 'پنل ‌ ‌', link: 'https://panel.appeditor.ir' }
     ],
 
