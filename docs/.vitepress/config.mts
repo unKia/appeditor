@@ -35,7 +35,7 @@ export default defineConfig({
       // { text: 'متن', link: '/pricing' },
       // { text: 'متن', link: '/item' },
       {
-        text: 'بیشتر ‌ ‌',
+        text: 'بیشتر ‌',
         items: [
           { text: 'امکانات و تعرفه‌ها', link: '/pricing' },
           { text: 'پشتیبانی', link: '/support' },
