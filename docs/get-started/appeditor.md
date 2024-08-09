@@ -17,7 +17,7 @@
 برخی از امکانات اپ ادیتور شامل موارد زیر است:
 
 * [صفحه ساز قدرتمند](/application-design/page-design.md)
-* [امکان ایجاد انیمیشن برای اجزای صفحه](application-design/widgets/animation.md)
+* [امکان ایجاد انیمیشن برای اجزای صفحه](/application-design/widgets/animation.md)
 * [بانک آیکون با قابلیت تغییر رنگ](/application-design/icons.md)
 * [قالب‌های متنوع و قابلیت شخصی‌سازی](/application-design/templates.md)
 * [امکان دریافت سورس‌کد اپلیکیشن](/make-application/source-code.md)
@@ -31,7 +31,7 @@
 * [قابلیت اعمال انواع شرط ها](/application-design/conditions/)
 * [قابلیت متغیرها](/application-design/variables/)
 * [امکان عضویت و حساب کاربری](/services/account.md)
-* [امکان ساخت فروشگاه](/services/shop-maker/)
+* [امکان ساخت فروشگاه](/services/shop-maker/README.md)
 * [امکان انتشار آنلاین محتوا بدون نیاز به نصب مجدد](/services/online-content-update.md)
 * [امکان کسب درآمد با نمایش تبلیغات](/services/ads.md)
 * [امکان خرید و پرداخت درون‌برنامه‌ای](/services/in-app-purchase.md)
