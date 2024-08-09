@@ -1,7 +1,4 @@
 # تماس با ما
-<div style="text-align: center">
-<img :src="$withBase('/images/contact-us.png')" width="250">
-</div>
 
 لطفا درصورتی که سوال یا مشکلی دارید در پشتیبانی داخل پنل با ما در میان بگذارید.
 
