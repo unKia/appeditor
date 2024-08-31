@@ -1,5 +1,6 @@
 ---
 layout: doc
+footer: true
 ---
 
 # مقدمه
