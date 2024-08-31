@@ -178,7 +178,7 @@ export default defineConfig({
 
     */
 
-    aside: 'left',
+    aside: false,
     search: {
       provider: 'local',
       options: {
