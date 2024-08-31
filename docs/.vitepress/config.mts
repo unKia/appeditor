@@ -209,10 +209,11 @@ export default defineConfig({
         }
       }
     },
-    outline: {
+    outline: false,
+    /* outline: {
       label: 'محتوای این صفحه ‌',
       level: 'deep',
-    },
+    }, */
     docFooter: {
       prev: 'نوشته قبلی',
       next: 'نوشته بعدی'
